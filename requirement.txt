@@ -1,0 +1,4 @@
+opencv-python
+imutils
+ipykernel
+#.e
